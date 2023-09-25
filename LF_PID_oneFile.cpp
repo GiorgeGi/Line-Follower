@@ -1,8 +1,8 @@
 #include <QTRSensors.h>
 
-#define KP 0.095                // Proportional gain
-#define KI 0.001                // Integral gain
-#define KD 0.7                  // Derivative gain
+#define KP 0                  // Proportional gain
+#define KI 0                  // Integral gain
+#define KD 0                  // Derivative gain
 #define MAX_SPEED 140
 #define DEFAULT_SPEED 100
 #define MIDDLE_SENSOR 4, 5
